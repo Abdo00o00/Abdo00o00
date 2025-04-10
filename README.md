@@ -32,12 +32,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Abdo00o00/Abdo00o00/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="abdo00o00" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="30" alt="discord logo"  />
